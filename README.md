@@ -1,4 +1,4 @@
- It is focused on analyzing the "Bank Marketing" dataset from the UCI Machine Learning Repository. The primary tasks include data fetching, preprocessing, and applying a Decision Tree Classifier.
+ It is focused on analyzing the "Bank Marketing" dataset from the UCI Machine Learning Repository. The primary tasks include data fetching, preprocessing, and applying a Decision Tree Classifier.You can view the Colab notebook [here.](https://colab.research.google.com/drive/1cbZfV6uPjzvE9fL0dMRpWP2MZ_TgpmiH#scrollTo=Sju21vF2XcN4)
 
 ### Overview of the Script:
 
